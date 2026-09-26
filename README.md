@@ -1,6 +1,6 @@
-# DeepSeek 桌宠（Codex 版和桌面版）
+# deepseek鲸鱼娘：双形态桌宠（Codex 版和桌面版）
 
-用两幅拼豆像素画制作的双形态动态桌宠：普通形态和铁锅形态。仓库提供独立 Windows 桌面程序，以及可装入 Codex 的两个宠物包。这是个人制作的非官方项目，与 DeepSeek、OpenAI 或 Codex 官方无隶属关系。
+用两幅拼豆像素画制作的双形态动态桌宠：普通形态和铁锅形态。仓库提供独立 Windows 桌面程序，以及可装入 Codex 的两个宠物包。角色形象是 DeepSeek 鲸鱼形象的二次创作，本仓库是个人制作的非官方项目，与 DeepSeek、OpenAI 或 Codex 官方无隶属关系。
 
 ![普通形态待机](lanlan-codex/normal/idle.gif) ![铁锅形态待机](lanlan-codex/pot/idle.gif)
 

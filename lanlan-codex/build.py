@@ -156,7 +156,7 @@ def build(form):
     atlas.save(dest/'spritesheet.webp',lossless=True,method=6)
     (dest/'pet.json').write_text(json.dumps({
         'id':f'lanlan-{form}',
-        'displayName':'蓝蓝 · 普通' if form=='normal' else '蓝蓝 · 铁锅',
+        'displayName':'deepseek鲸鱼娘 · 普通' if form=='normal' else 'deepseek鲸鱼娘 · 铁锅',
         'description':'拼豆像素画还原的双形态桌宠之一',
         'spriteVersionNumber':2,
         'spritesheetPath':'spritesheet.webp'

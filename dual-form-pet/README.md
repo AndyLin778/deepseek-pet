@@ -1,4 +1,4 @@
-# 蓝蓝：双形态像素桌宠
+# deepseek鲸鱼娘：双形态像素桌宠
 
 Windows 上安装 Python 3 和 Pillow（`python -m pip install -r requirements.txt`），双击 `start-pet.vbs` 启动。`pythonw.exe` 需在 PATH 中。运行时无需联网。
 

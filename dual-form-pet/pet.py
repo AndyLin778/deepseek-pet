@@ -50,7 +50,7 @@ def sprite(form, size=3, blink=False):
 class Pet:
     def __init__(self, smoke=False):
         self.root = tk.Tk()
-        self.root.title('蓝蓝 · 双形态桌宠')
+        self.root.title('deepseek鲸鱼娘 · 双形态桌宠')
         self.root.overrideredirect(True)
         self.root.attributes('-topmost', True)
         self.root.attributes('-transparentcolor', KEY)

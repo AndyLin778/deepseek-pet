@@ -19,7 +19,7 @@ Copy-Item .\lanlan-codex\normal\pet.json, .\lanlan-codex\normal\spritesheet.webp
 Copy-Item .\lanlan-codex\pot\pet.json, .\lanlan-codex\pot\spritesheet.webp (Join-Path $pets 'lanlan-pot')
 ```
 
-上述命令在仓库根目录执行。重启 Codex 后，在宠物列表选择“蓝蓝 · 普通”或“蓝蓝 · 铁锅”。Codex 目前通过列表切换这两个包；双击变身属于独立桌面版。
+上述命令在仓库根目录执行。重启 Codex 后，在宠物列表选择“deepseek鲸鱼娘 · 普通”或“deepseek鲸鱼娘 · 铁锅”。Codex 目前通过列表切换这两个包；双击变身属于独立桌面版。
 
 ## 重新生成动画图集
 
